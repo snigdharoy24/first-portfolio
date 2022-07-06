@@ -5,7 +5,7 @@ body {
     background-image: none;
 }
 
-h1 {
+.topper {
     color: white;
     text-align: center;
     font-weight: bolder;
@@ -34,4 +34,22 @@ p {
     padding: 5px 7px 5px 7px;
     background-color: rgb(209, 63, 63);
 
+}
+
+footer {
+    color: beige;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+#humble {
+    color: rgba(182, 41, 41, 0.993);
+    font-family: cursive;
+    font-size: large;
+}
+
+.second-para {
+    color: black;
 }
