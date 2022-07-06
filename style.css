@@ -1,4 +1,21 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    background-image: none;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: 200px;
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.top-image {
+    background-image: url(image/donation6.jpg);
 }
