@@ -12,7 +12,7 @@ body {
 
 }
 
-p {
+.white-letter {
     color: whitesmoke;
     text-align: center;
 }
@@ -52,4 +52,24 @@ footer {
 
 .second-para {
     color: black;
+    padding-top: 30px;
+    display: flex;
+}
+
+input {
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+
+button {
+    color: darkblue;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+    background-color: rgb(245, 227, 206);
+    text-decoration: none;
+    border: 0pc;
+    padding: 15px 15px;
+
 }
